@@ -11,7 +11,7 @@ description: "Personal writings and expressions."
   style="float: left; width: 150px; height: auto; margin-right: 10px;">
 
 I’m a Postdoctoral Researcher at the Paul Scherrer Institute, where I investigate the fascinating world of computational condensed matter physics. 
-My day-to-day work involves writing simulations and tackling quantum-scale challenges using Rust, Julia, and Python. 
+My day-to-day work involves simulating novel materials and developing tool for tackling quantum-scale challenges using Rust, Julia, and Python. 
 I’m also exploring new frontiers in web development, currently diving into HTMX to enhance my projects. 
 Welcome to my blog, a space where I capture and share my ideas, research insights, and ongoing adventures in coding.
 
